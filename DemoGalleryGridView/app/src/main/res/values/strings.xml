@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoGalleryGridView</string>
+
+    <string name="gallery_view">Gallery View</string>
+    <string name="custom_gallery_view">Custom Gallery View</string>
+
+</resources>
